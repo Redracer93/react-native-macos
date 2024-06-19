@@ -97,7 +97,7 @@
     "shelljs": "^0.8.5",
     "signedsource": "^1.0.0",
     "typescript": "4.1.3",
-    "ws": "^6.2.2"
+    "ws": "^6.2.3"
   },
   "beachball": {
     "shouldPublish": false
